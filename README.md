@@ -1,7 +1,7 @@
 # Currículo
 
 <aside>
-👋 Olá, me chamo **Lucca Pinto**, estou em início de carreira me formando em Sistemas de Informação na USP. Sou uma pessoa comprometida, proativa, apaixonada por tecnologia e sempre buscando aprender coisas novas.
+👋 Olá, me chamo Lucca Pinto, estou em início de carreira me formando em Sistemas de Informação na USP. Sou uma pessoa comprometida, proativa, apaixonada por tecnologia e sempre buscando aprender coisas novas.
 
 </aside>
 
@@ -47,15 +47,15 @@ São Paulo, Brasil – (novembro de 2022 - junho de 2023)
 
 # Idiomas
 
-### Inglês 🇺🇸
+### Inglês
 
 Intermediário Avançado
 
-### Espanhol 🇪🇸🇦🇷
+### Espanhol
 
 Básico
 
-### Português 🇧🇷
+### Português
 
 Fluente
 
