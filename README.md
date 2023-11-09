@@ -15,6 +15,12 @@
 
 # Experiência
 
+### XP Inc.
+
+São Paulo, Brasil *– (*nov de 2023 - o momento*)*
+
+- **Business Developement Intern** (nov de 2023 - o momento): Análise de indicadores e outras ferramentas de Gente e comportamento;  Manipulação de banco de dados; Construção de automações e modelos estatísticos; Criação de dashboards; Criação de relatórios e apresentações para diferentes stakeholders.
+
 ### Síntese Jr.
 
 São Paulo, Brasil *– (*maio de 2022 - Presente*)*
