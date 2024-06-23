@@ -1,78 +1,100 @@
-# Currículo
+# Lucca Pinto
 
-👋 Olá, me chamo Lucca Pinto, estou em início de carreira e me formando em Sistemas de Informação na USP. Sou uma pessoa comprometida, proativa, apaixonada por tecnologia, e sempre buscando aprender coisas novas. Gosto de trabalhar em equipe e de enfrentar grandes desafios, movido por aprendizado e oportunidades de desenvolvimento.
+luccapinto@usp.br
 
-### **Contato**
++55 (11) 94066-9077
 
-- 📧 [Email](mailto:tripaca123@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/luccapinto)
-- 👾 [GitHub](https://github.com/luccapinto)
+[LinkedIn](https://www.linkedin.com/in/luccapinto) | [GitHub](https://github.com/luccapinto)
 
-## Experiência
+São Paulo, 05577902 São Paulo
 
-### **XP Inc.**
-*São Paulo, Brasil – (novembro de 2023 - Presente)*
-- **People Analytics Intern**: Responsável pela análise de indicadores e ferramentas de gestão de pessoas; construção de automações e modelos estatísticos; criação de dashboards e relatórios para diferentes stakeholders.
-  - **Principais funções**:
-    - Análise de indicadores e outras ferramentas de Gente.
-    - Construção de automações e modelos estatísticos.
-    - Criação de dashboards.
-    - Criação de relatórios e apresentações para diferentes stakeholders.
-  - **Exemplos de projetos**:
-    - **Reformulação do ETL de Recrutamento**:
-      - Otimização dos notebooks de ingestão, reduzindo o tempo de execução em 25 vezes.
-      - Padronização dos notebooks de tratamento para maior confiabilidade dos dados.
-    - **Owner do principal dashboard de Recrutamento**:
-      - Gestão de KPIs.
-      - Implementação de adições e melhorias em conjunto com stakeholders.
-    - **Automação end-to-end da principal meta de Recrutamento**:
-      - Economia de 4-8 horas mensais de trabalho de duas pessoas do time.
-      - Solução inovadora que solucionou problemas de outros times de Gente.
+## EDUCAÇÃO
 
-### **Síntese Jr.**
-*São Paulo, Brasil – (maio de 2022 - Presente)*
-- **Diretor de Gestão de Pessoas** (novembro de 2022 - Presente): Liderança e desenvolvimento de equipe; definição de estratégias e coordenação de integração setorial.
-- **Associado de Gestão de Pessoas** (julho de 2022 - novembro de 2022): Conduziu processos seletivos e organizou eventos de integração.
-- **Trainee de Gestão de Pessoas** (maio de 2022 - julho de 2022).
+**Bacharelado em Sistemas de Informação**  
+Universidade de São Paulo (USP), São Paulo  
+Previsão de Conclusão: Dezembro de 2025
 
-### **Atlética EACH-USP**
-*São Paulo, Brasil – (janeiro de 2023 - Presente)*
-- **Diretor de Modalidade Esportiva**: Liderança de equipe de atletas, organização de campeonatos, e gestão administrativa e financeira.
+## RESUMO PROFISSIONAL
 
-### **Diretório Acadêmico de Sistemas de Informação - DASI USP**
-*São Paulo, Brasil – (novembro de 2022 - junho de 2023)*
-- **Assessor de Eventos**: Organização de eventos acadêmicos e externos, gestão de patrocínios e promoção de eventos.
+Estagiário em People Analytics na XP Inc. e estudante de Sistemas de Informação na USP. Apaixonado por tecnologia e inovação, sempre busco aprender e aplicar novos conhecimentos para resolver desafios.
 
-## Habilidades Técnicas
+Profissional altamente motivado, proativo e guiado por dados. Tenho habilidades em desenvolver soluções práticas utilizando mineração de dados, análise estatística e visualização de dados para gerar insights significativos e apoiar a tomada de decisões. Possuo boa aptidão técnica e conhecimento em diversas linguagens de programação e plataformas de cloud.
 
-- **Linguagens de Programação**: C, Python, Java.
-- **Plataformas Cloud**: AWS, Google Cloud Platform (GCP), Azure.
+## EXPERIÊNCIA PROFISSIONAL
 
-## Idiomas
+**XP Inc.** - Estagiário de People Analytics  
+São Paulo, Brasil (Novembro 2023 - Atual)
 
-- **Inglês**: Full Professional
-- **Espanhol**: Limited Working
-- **Português**: Native or Bilingual
+Responsabilidades:
+- Análise de indicadores e ferramentas de gestão de pessoas.
+- Construção de automações e modelos estatísticos.
+- Criação de dashboards.
+- Desenvolvimento de relatórios e apresentações para diversos stakeholders.
 
-## Formação Acadêmica
+Conquistas:
+- Reformulação do ETL de Recrutamento:
+  - Otimização de notebooks de ingestão (tempo de execução 25x mais rápido).
+  - Notebooks de tratamento padronizados e com maior confiabilidade de dados.
+- Gestão do principal dashboard de Recrutamento:
+  - Reformulação de páginas, visões e relacionamentos entre tabelas.
+  - Gestão de KPIs.
+- Automação end-to-end da principal meta de Recrutamento:
+  - Economia de 4-8 horas mensais de duas pessoas do time.
+  - Solução inovadora que solucionou a dor de outros times de gente.
 
-### **Universidade de São Paulo - USP**
-Bacharelado, Sistemas de Informação (março de 2022 - dezembro de 2025)
-- Assistente na matéria “Fundamentos de Sistemas de Informação”
-- **1º Lugar na Hackathon “HackFools 2022”** do Codelab USP
+**Síntese Jr.** - Diretor De Gestão De Pessoas  
+São Paulo, Brasil (Novembro 2022 - Dezembro 2023)
 
-### **Colégio Vital Brazil**
-Ensino Médio (janeiro de 2018 - dezembro de 2020)
-- Participação no Torneio Arduino Challenge (Inatel) e na Olimpíada Brasileira de Biologia
-- Tutor de química
+Responsabilidades:
+- Planejamento estratégico em conjunto com outros diretores.
+- Liderança e desenvolvimento de talentos, atribuindo responsabilidades e alinhando metas com os objetivos da empresa.
+- Coordenação da integração interdepartamental e comunicação eficaz entre a equipe e o restante da empresa.
+- Implementação do Plano de Desenvolvimento Individual e estruturação do novo processo de trainee.
+- Desenvolvimento de equipes de alto desempenho, fornecendo orientação, mentoria e oportunidades de crescimento profissional.
 
-## Cursos
+**Síntese Jr.** - Associado De Gestão De Pessoas  
+São Paulo, Brasil (Julho 2022 - Novembro 2022)
 
-- **AI Builder Challenge** – Microsoft
-- **Inspiring and Motivating Individuals** – Michigan University
-- **Cloud Computing Foundations** – Duke University
+Responsabilidades:
+- Estruturação e condução de dinâmicas de grupo e entrevistas.
+- Organização de eventos sociais para promover a coesão da equipe.
+- Manutenção da organização e controle do pessoal, incluindo demissões.
 
-## Reconhecimentos e Prêmios
+**Síntese Jr.** - Trainee de Gestão de Pessoas  
+São Paulo, Brasil (Maio 2022 - Julho 2022)
 
-- **1º Lugar na Hackathon "Projeto Inútil" com a API do ChatGPT** – Campus Party Brasil, julho de 2023
-- **1ª Lugar no HackFools 2022** – CodeLab USP, julho de 2022
+**Atlética EACH-USP** - Diretor de Modalidade Esportiva  
+São Paulo, Brasil (Janeiro 2023 - Novembro 2023)
+
+Responsabilidades:
+- Liderança e motivação da equipe de atletas.
+- Organização de campeonatos, gestão administrativa e captação de recursos.
+- Promoção de um ambiente inclusivo e apoio a atletas de baixa renda.
+
+**Diretório Acadêmico de Sistemas de Informação - DASI USP** - Assessor de Eventos  
+São Paulo, Brasil (Novembro 2022 - Junho 2023)
+
+Responsabilidades:
+- Organização de eventos para a comunidade interna e externa da faculdade.
+- Responsável por cotações, contato com artistas, patrocínios e promoção de qualidade.
+
+## CERTIFICAÇÕES
+
+- Power BI Completo - do básico ao avançado
+- Academy Accreditation - Databricks Fundamentals
+- Microsoft AI Builder Challenge
+- Cloud Computing Foundations - Duke University
+- Inspiring and Motivating Individuals - University of Michigan
+
+## CONQUISTAS
+
+- Otimização de notebooks de ingestão (manipulando todos os dados de recrutamento) em 14x para execução mais rápida.
+- Implementação de automação de ponta a ponta, economizando 4-8 horas mensais para os membros da equipe.
+- 1º Lugar no Hackathon "Projeto Inútil" usando a API do ChatGPT.
+- 1º Lugar no Hackathon HackFools.
+
+## IDIOMAS
+
+- English: Avançado (C1)
+- Portuguese: Nativo (C2)
+- Spanish: Intermediário (B1)
